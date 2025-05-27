@@ -1,2 +1,2 @@
 # Laboratorio-de-Software
-Codes made in the softawre Laboratory UC
+Bolck of codes made in the softawre Laboratory UC
