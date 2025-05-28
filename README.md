@@ -1,4 +1,4 @@
-The code implements:
+The "8rainhas"code implements:
 
 Depth-First Search (DFS) using a stack. The algorithm explicitly uses a stack<vector> stack; 
 - the stack is the typical DFS data structure. The expansion of the nodes (or board states) is done within the while loop (!stack.empty()),
