@@ -8,9 +8,9 @@ Depth-First Search (DFS) using a stack. The algorithm explicitly uses a stack<ve
 
 
 "Arvores binarias" represented by a vector with the particularity of being a HeapMinimum:
-Block to put the smallest value always on the left-hand side
-Block moves up one element in the vector to maintain the min heap property
-drops an element to reorganize the heap after removal
-Block to read user input and call the insert function
-Block to insert an item into the heap
+- Block to put the smallest value always on the left-hand side
+- Block moves up one element in the vector to maintain the min heap property
+- Drops an element to reorganize the heap after removal
+- Block to read user input and call the insert function
+- Block to insert an item into the heap
 
